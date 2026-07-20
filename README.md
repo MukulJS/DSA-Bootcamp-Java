@@ -4,4 +4,8 @@
 - [Course website](https://www.techwithkunal.com/courses/dsa)
 - [Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments) (solutions can be found on LeetCode)
 
-imma clone ts
+<<<<<<< HEAD
+=======
+
+main branch to mukul branch
+>>>>>>> main
